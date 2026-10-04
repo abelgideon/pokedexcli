@@ -1,6 +1,6 @@
 # Pokedex CLI
 
-A Pokedex CLI with functionalities like viewing locations, viewing pokemon in locations, catching pokemon, and inspecting caught pokemon.
+A Pokedex CLI built in Go with functionalities like viewing locations, viewing pokemon in locations, catching pokemon, and inspecting caught pokemon.
 
 ## Commands
 - pokedex: Track Pokemon you have caught
